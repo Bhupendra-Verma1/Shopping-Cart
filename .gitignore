@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# IntelliJ Idea files
+.idea/
+*.iml
+
+# ignore build output directories
+/target/
+/out/
+
+# ignore the .env file
